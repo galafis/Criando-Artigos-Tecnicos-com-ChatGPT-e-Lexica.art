@@ -17,9 +17,12 @@ Neste projeto, usei prompts otimizados no **ChatGPT** para criar um artigo magn�
 
 ## 📄 Artigo Completo
 
-(./imagens/A_flat-style_digital_illustration_depicts_a_young_.png)
-(./imagens/A_digital_article_displays_an_image_and_text_discu.png)
-(./imagens/A_document_titled_"Recriando_um_Artigo_Técnico_Cat.png)
+![image](https://github.com/user-attachments/assets/ff752bed-cbfa-4a0d-ad8f-364ebc381e77)
+
+(./![image](https://github.com/user-attachments/assets/b6393ef6-1ccf-43d6-bfe8-dfefdbd0d4d9)
+
+![image](https://github.com/user-attachments/assets/6f89632f-610b-4c61-ad08-1ae14ba021d3)
+
 
 ### Introdução
 Nos últimos anos, a Inteligência Artificial (IA) deixou de ser apenas uma promessa futurista para se tornar uma aliada indispensável no cotidiano de muitos profissionais — especialmente os cientistas de dados. Ferramentas baseadas em IA estão otimizando fluxos de trabalho, automatizando tarefas repetitivas e até sugerindo soluções criativas para problemas complexos.
