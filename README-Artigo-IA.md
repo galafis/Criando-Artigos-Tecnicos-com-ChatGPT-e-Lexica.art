@@ -46,8 +46,6 @@ As imagens foram criadas com IA no site **[Lexica.art](https://lexica.art)** par
 ## 💬 Prompts Utilizados
 Todos os prompts utilizados estão documentados no arquivo [`prompts-utilizados.md`](./prompts-utilizados.md), incluindo aqueles para texto, estrutura de artigo e geração de imagens.
 
-## 🔗 Link do Artigo
-[Leia o artigo completo aqui](https://seuartigo.medium.com) *(substitua com o link real assim que publicar)*
 
 ## 🌐 Referências
 - [Repositório base do desafio - Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia)
