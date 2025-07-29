@@ -57,3 +57,23 @@ Todos os prompts utilizados estão documentados no arquivo [`prompts-utilizados.
 > "Não basta usar IA. Entenda, explore e compartilhe. É assim que construímos autoridade."
 
 Feito com curiosidade e café ☕ por um estudante que ama dados e acredita no futuro com IA. #IAnoGitHub
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
